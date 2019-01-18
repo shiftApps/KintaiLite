@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shift.TimeRecorderLite</string>
+				<string>com.shift.coloreco</string>
 				<key>bundle-version</key>
-				<string>0.1</string>
+				<string>1.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>勤給解決Lite</string>
+				<string>カラ・レコ</string>
 			</dict>
 		</dict>
 	</array>
